@@ -36257,9 +36257,9 @@ $.a_.k3$.push(new A.afM(s))
 s.al(new A.afN(s))},
 $S:0}
 A.afM.prototype={
-$1(a){var s,r=this.a
-if(r.at!==""){s=A.ayd(null)
-s.src=r.at
+$1(a){var s,r
+if(this.a.at!==""){s=A.ayd(null)
+s.src="https://storage.cloud.google.com/personal-translate-audios/output.mp3"
 r=s.play()
 r.toString
 A.id(r,t.z)}},
